@@ -1,6 +1,6 @@
 # ProConnect - Proyecto de QA Manual
 
-<img src="docs/Imagen1.png" alt="ProConnect Logo" style="width: 55%;">
+<img src="docs/proconnect.png" alt="ProConnect Logo" style="width: 55%;">
 
 **Proyecto de QA Manual** desarrollado en colaboración por un equipo para **ProConnect**, una solución digital de reclutamiento y selección de personal diseñada para conectar empresas con candidatos y facilitar la gestión de ofertas laborales y postulaciones.
 
