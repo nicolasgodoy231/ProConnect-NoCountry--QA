@@ -23,12 +23,6 @@ Validar las funcionalidades principales de la plataforma ProConnect, identifican
 - **Pruebas exploratorias**: Se realizaron durante el desarrollo y especialmente antes de la presentación, enfocadas en las funcionalidades principales.
 - **In Scope**: Registro, inicio de sesión, recuperación de contraseña, gestión de ofertas, postulaciones, solicitudes, notificaciones, administración y gestión de usuarios.
 
-> **Aclaración:** El proyecto fue desarrollado para una **Demo Day**, por lo que el tiempo disponible para realizar las actividades de QA fue limitado. Durante el desarrollo y especialmente antes de la presentación se realizaron pruebas exploratorias sobre las funcionalidades principales.
->
-> Los casos de prueba incluidos en este repositorio fueron reconstruidos a partir de la documentación funcional y los requerimientos del proyecto. Debido a las limitaciones de tiempo, estos casos no llegaron a ejecutarse formalmente, por lo que los campos de resultado, estado y evidencias se encuentran pendientes de ejecución.
->
-> Esta documentación diferencia los casos de prueba diseñados de las pruebas exploratorias que efectivamente se realizaron durante el desarrollo y la Demo Day.
-
 ## Equipo de QA
 
 Este proyecto fue desarrollado de manera colaborativa entre integrantes de desarrollo y QA.
