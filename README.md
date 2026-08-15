@@ -1,9 +1,14 @@
-# ProConnect-NoCountry--
-# Proyecto de QA Manual
+# ProConnect - Proyecto de QA Manual
 
-<img src="docs/proconnect.png" alt="ProConnect Logo" style="width: 55%;">
+<img src="docs/Imagen1.png" alt="ProConnect Logo" style="width: 55%;">
 
-**Proyecto de QA Manual** desarrollado en colaboración por un equipo para la plataforma **ProConnect**, una solución digital de reclutamiento y selección de personal diseñada para conectar empresas con candidatos y facilitar la gestión de ofertas laborales y postulaciones.
+**Proyecto de QA Manual** desarrollado en colaboración por un equipo para **ProConnect**, una solución digital de reclutamiento y selección de personal diseñada para conectar empresas con candidatos y facilitar la gestión de ofertas laborales y postulaciones.
+
+El proyecto fue desarrollado en el marco de **No Country** y presentado a fines de **febrero de 2025** como parte de una **Demo Day**.
+
+**Acceso a una versión anterior de la plataforma:** [https://clon-frontend.vercel.app/Registrarse](https://clon-frontend.vercel.app/Registrarse)
+
+> **Nota:** El enlace correspondiente a la versión presentada originalmente se encuentra actualmente fuera de servicio. Durante la Demo Day, la aplicación fue ejecutada de forma local para realizar la demostración.
 
 ## Objetivo
 
@@ -19,9 +24,9 @@ Validar las funcionalidades principales de la plataforma ProConnect, identifican
 ## Alcance del Testing
 
 - **Tipos de prueba**: Funcionales, Exploratorias, Usabilidad y Compatibilidad/Responsive.
-- **Casos de prueba**: Se reconstruyeron casos de prueba a partir de la documentación funcional y los requerimientos del sistema.
+- **Casos de prueba**: Se diseñaron casos de prueba a partir de la documentación funcional y los requerimientos del sistema.
 - **Pruebas exploratorias**: Se realizaron durante el desarrollo y especialmente antes de la presentación, enfocadas en las funcionalidades principales.
-- **In Scope**: Registro, inicio de sesión, recuperación de contraseña, gestión de ofertas, postulaciones, solicitudes, notificaciones, administración y gestión de usuarios.
+- **Funcionalidades incluidas**: Registro, inicio de sesión, recuperación de contraseña, gestión de ofertas, postulaciones, solicitudes, notificaciones, administración y gestión de usuarios.
 
 ## Equipo de QA
 
@@ -34,15 +39,11 @@ Este proyecto fue desarrollado de manera colaborativa entre integrantes de desar
 - **QA / Testing**: Realización de pruebas exploratorias durante el desarrollo y especialmente antes de la presentación, enfocadas en las funcionalidades principales.
 - **Análisis funcional**: Sugerencias sobre funcionalidades y posibles mejoras en el flujo de la aplicación.
 - **Trabajo en equipo**: Comunicación de observaciones y colaboración con el equipo de desarrollo para mejorar el producto.
-- **Documentación**: Elaboración del Test Plan y casos de prueba a partir de los requerimientos funcionales del proyecto.
-
-## Documentación del Proyecto
-
-- **[Documentación del Sistema](docs/PLATAFORMA DE RECLUTAMIENTO Y SELECCIÓN DE PERSONAL.md)**: Descripción general de la plataforma, objetivos, alcance y requerimientos funcionales y no funcionales.
-- **[Test Plan ProConnect](docs/Plan de Testeo.md)**: Planificación y estrategia de pruebas del proyecto.
-- **[Carpeta de Casos de Prueba](docs/Casos de Prueba.xlsx)**: Casos de prueba construidos a partir de los requerimientos funcionales del sistema.
+- **Documentación**: Elaboración del Test Plan y diseño de casos de prueba a partir de los requerimientos funcionales del proyecto.
 
 ## Requerimientos Cubiertos
+
+La cobertura de pruebas fue definida tomando como referencia los requerimientos funcionales y no funcionales del sistema.
 
 | Requerimiento | Descripción |
 |---------------|-------------|
@@ -58,6 +59,13 @@ Este proyecto fue desarrollado de manera colaborativa entre integrantes de desar
 | **RNF2** | Accesibilidad desde dispositivos móviles, tabletas y escritorio. |
 | **RNF3** | Diseño intuitivo y facilidad de uso. |
 
+## Documentación del Proyecto
+
+- **[Documentación del Sistema](docs/PLATAFORMA DE RECLUTAMIENTO Y SELECCIÓN DE PERSONAL.pdf)**: Descripción general de la plataforma, objetivos, alcance y requerimientos funcionales y no funcionales.
+- **[Test Plan ProConnect](docs/Plan de Testeo.pdf)**: Planificación y estrategia de pruebas del proyecto.
+- **[Carpeta de Casos de Prueba](docs/Casos de Prueba.xlsx)**: Casos de prueba diseñados a partir de los requerimientos funcionales del sistema.
+- **[Presentación de la plataforma](docs/Presentación de ProConnect.pptx)**: Power Point utilizado para la presentación.
+
 ## Herramientas Utilizadas
 
 - **Excel / Google Sheets**: Diseño y documentación de casos de prueba.
@@ -65,11 +73,12 @@ Este proyecto fue desarrollado de manera colaborativa entre integrantes de desar
 - **Microsoft Word**: Elaboración del Test Plan y documentación.
 - **Git / GitHub**: Control de versiones y documentación del proyecto.
 - **Herramientas de captura de pantalla**: Registro de observaciones durante las pruebas exploratorias.
-- **Discord y Trello**: para la comunicación y la división de tareas con el equipo de desarrollo.
 
 ## Gestión del Proyecto
 
-El proyecto fue desarrollado de manera colaborativa entre los integrantes del equipo, trabajando en conjunto durante el desarrollo y las actividades de QA.
+El proyecto fue desarrollado de manera colaborativa entre integrantes de desarrollo y QA, dentro del marco de **No Country**.
+
+El equipo trabajó sobre las funcionalidades de la plataforma durante el desarrollo, realizando actividades de análisis, implementación y testing de acuerdo con las responsabilidades de cada integrante.
 
 Desde QA se realizaron pruebas exploratorias sobre las funcionalidades principales disponibles, comunicando las observaciones al equipo de desarrollo para facilitar la corrección y mejora del producto antes de la presentación.
 
