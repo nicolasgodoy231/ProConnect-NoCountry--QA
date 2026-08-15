@@ -93,7 +93,8 @@ Desde QA se realizaron pruebas exploratorias sobre las funcionalidades principal
 ---
 
 ## Contacto
-
+* **Whatsapp:** [1176280738](https://wa.me/5491176280738)
 * **LinkedIn:** [Javier Nicolás Godoy](https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/)
 * **Email:** [nicolasgodoy231@gmail.com](mailto:nicolasgodoy231@gmail.com)
-* **Portfolio Web:** [Portfolio QA](https://nicolasgodoy231.github.io/Portfolio-QA-Javier-Nicolas-Godoy/)
+* **Currículum Vitae:** [Ver desde Google Drive](https://drive.google.com/file/d/1jISxWjB4LDYPkm8-Uy4UxbyCwNEjo7im/view?usp=drive_link)
+* [**Mi Portfolio Web Desplegado**](https://nicolasgodoy231.github.io/Portfolio-QA-Javier-Nicolas-Godoy/)
